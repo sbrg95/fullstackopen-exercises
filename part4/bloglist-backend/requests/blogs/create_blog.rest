@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjVmZTA3NDBjOTFjNDM5MTk0NDg4OGMxZCIsImlhdCI6MTYwODU0NTM0NH0.sYXxhZSIYOGIwcI3PRqZ1TIAuFEpzCtmrkSP4dr43U4
+
+{
+    "title": "test blog",
+    "author": "sbrg95",
+    "url": "www.sbrg95.com"
+}
