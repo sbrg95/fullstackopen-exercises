@@ -1,0 +1,18 @@
+.notification {
+  font-size: 1.5rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #ccc;
+  color: red;
+  border-radius: 5px;
+}
+
+.error {
+  color: red;
+  border: 2px solid red;
+}
+
+.success {
+  color: green;
+  border: 2px solid green;
+}
